@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Loopy';
+    src: local('Loopy'),
+    url('./fonts/LOOPY___.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Digital';
+    src: local('Digital'),
+    url('./fonts/digital-7.ttf') format('truetype')
+}
+
